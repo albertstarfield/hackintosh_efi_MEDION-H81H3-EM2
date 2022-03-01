@@ -1,6 +1,8 @@
 # hackintosh_efi_MEDION-H81H3-EM2
 Personal OpenCore EFI folder for my machine, the Medion H81H3-EM2
 
+_note: This should work on macOS 12.2.1 Monterey_
+
 Current OpenCore version: _**0.7.5**_
 
 # Hardware: 
